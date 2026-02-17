@@ -1,0 +1,2 @@
+source /Users/mailotejero/esp/rover/build/gdbinit/symbols
+source /Users/mailotejero/esp/rover/build/gdbinit/connect

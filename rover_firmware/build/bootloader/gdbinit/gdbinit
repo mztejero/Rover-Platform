@@ -1,0 +1,2 @@
+source /Users/mailotejero/esp/rover/build/bootloader/gdbinit/symbols
+source /Users/mailotejero/esp/rover/build/bootloader/gdbinit/connect

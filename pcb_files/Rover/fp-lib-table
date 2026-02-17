@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "BMM")(type "KiCad")(uri "${KIPRJMOD}/BMM.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/mailotejero/Documents/Documents/KiCad/8.0/footprints/footprints.pretty")(options "")(descr ""))
+  (lib (name "custom_footprints")(type "KiCad")(uri "${KIPRJMOD}/custom_footprints.pretty")(options "")(descr ""))
+)

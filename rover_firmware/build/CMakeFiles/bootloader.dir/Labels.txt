@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Users/mailotejero/esp/rover/build/CMakeFiles/bootloader
+/Users/mailotejero/esp/rover/build/CMakeFiles/bootloader.rule
+/Users/mailotejero/esp/rover/build/CMakeFiles/bootloader-complete.rule
+/Users/mailotejero/esp/rover/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Users/mailotejero/esp/rover/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Users/mailotejero/esp/rover/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Users/mailotejero/esp/rover/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Users/mailotejero/esp/rover/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Users/mailotejero/esp/rover/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Users/mailotejero/esp/rover/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

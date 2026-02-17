@@ -1,0 +1,95 @@
+(footprint "Switch"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 4.4 -0.3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "63a03e54-8348-4633-a965-74e7c1187348")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "Switch"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b078ee18-f949-4e15-ac35-6522edb0dfad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c835a451-9606-48c3-9de4-a6716d597c89")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33d3f338-b584-43b9-a234-967116211fe7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b79f47e2-892f-498c-b577-43be1b64873d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -3.75)
+		(size 2.9 2.9)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "456e883e-6480-4477-a3dc-125469ce04c4")
+	)
+	(pad "2" thru_hole circle
+		(at 0 0)
+		(size 2.9 2.9)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "4485ba5a-0988-4c9d-a262-1f21576cea76")
+	)
+	(pad "3" thru_hole circle
+		(at 0 3.75)
+		(size 2.9 2.9)
+		(drill 1.7)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8bd936fd-032b-4460-89db-d6860c570838")
+	)
+	(embedded_fonts no)
+)
